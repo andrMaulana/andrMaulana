@@ -1,62 +1,48 @@
-# Andri Maulana
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I'm Andri Maulana</h1>
+<h3 align="center">I'm a Fullstack Developer</h3>
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2>💫 About Me :</h2>
 
-<p align="center">
+- 🔭 This is my full portfolio **[andrimlna.com](https://andrimlna.com)**
 
-  <a href="https://www.linkedin.com/in/andri-maulana-347b25227/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Andri Maulana LinkedIn Profile" height="30" width="30">
-  </a>
+- 📫 How to reach me **andryymaulana2000@gmail.com**
 
-  <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Andri Maulana Stack Overflow Profile" height="30" width="30">
-  </a>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-  <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Andri Maulana Stack Exchange Profile" height="30" width="30">
-  </a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/am.driii/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrimaullana) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@internalservererror.500)
 
-  <a href="#">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Andri Maulana StackShare Profile" height="30" width="30">
-  </a>
-
-  <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Andri Maulana GitLab Profile" height="30" width="30">
-  </a>
-
-  <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Andri Maulana Medium Profile" height="30" width="30">
-  </a>
-
-  <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Andri Maulana YouTube Channel" height="30" width="30">
-  </a>
+<h2 align="left">🛠 Tech Stack and Tools :</h2>
+<p align="left">
+<a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/></a>
+<a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="golang" width="40" height="40"/></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://nestjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/></a>
+<a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40"/></a>
+<a href="https://laravel.com/" target="_blank"> <img src="https://camo.githubusercontent.com/e914791b7640ec3fe9e3ef3222ed97da1d407199ab47391ea21f1c15a9592acc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f4c61726176656c2e7376672f3139363970782d4c61726176656c2e7376672e706e67" alt="laravel" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
+<a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
+<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
+<a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
+<a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/></a>
+<a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/></a>
+<a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
 </p>
 
-<h2 align="center">My stack :man_technologist:</h2>
+## ✨ Statistics
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
-<p align="center">
-  <a href="https://stackshare.io/anhello/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
-  </a>
-</p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{andrMaulana}/count.svg" alt="andrMaulana :: Visitor's Count" /></p>
-
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrMaulana&langs_count=10&theme=tokyonight&layout=compact" alt="andrMaulana :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=andrMaulana&show_icons=true&theme=synthwave" alt="andrMaulana :: Profile Stats" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+|Github Stats|Languages|
+|---|---|
+| [![GitHub Streak](https://streak-stats.demolab.com?user=andrMaulana&theme=gotham)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrMaulana&theme=gotham) |
 
 
 ---
