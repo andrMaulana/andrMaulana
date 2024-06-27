@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I'm Andri Maulana</h1>
-<h3 align="center">I'm a Fullstack Developer</h3>
+<h3 align="center">I am enthusiast for software engineering</h3>
 
 <h2>💫 About Me :</h2>
 
