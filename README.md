@@ -38,7 +38,9 @@
 
 |Github Stats|Languages|
 |---|---|
-| [![GitHub Streak](https://streak-stats.demolab.com?user=andrMaulana&theme=gotham)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrMaulana&theme=gotham) |
+
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=andrMaulana)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrMaulana&theme=gotham) |
+
 
 
 ---
