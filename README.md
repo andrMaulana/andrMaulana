@@ -1,31 +1,18 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I'm Andri Maulana</h1>
 <h3 align="center">I am enthusiast for software engineering</h3>
 
-<h2>💫 About Me :</h2>
-
-- 🔭 This is my full portfolio **[andrimlna.com](https://andrimlna.com)**
-
-- 📫 How to reach me **andryymaulana2000@gmail.com**
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/am.driii/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrimaullana)
-
 <h2 align="left">🛠 Tech Stack and Tools :</h2>
 
 <p align="left"> 
 	<div align="center">
-	    <img src="https://skillicons.dev/icons?i=go,ts,js,php,java,rust,c,cs,python,kotlin,dart,html,css" /> <br>
-	    <img src="https://skillicons.dev/icons?i=nextjs,laravel,react,vite,nestjs,express,tailwind,bootstrap" /><br>
-      <img src="https://skillicons.dev/icons?i=redis,postgres,mysql,mongodb,graphql,kafka,docker,postman,git,aws,gcp" /><br>
+		<img src="https://skillicons.dev/icons?i=go,ts,js,php,java,rust,c,cs,python,html,css" /> <br>
+		<img src="https://skillicons.dev/icons?i=nextjs,laravel,react,bun,nodejs,vite,nestjs,express,tailwind,bootstrap" /><br>
+      		<img src="https://skillicons.dev/icons?i=redis,postgres,mysql,mongodb,graphql,kafka,docker,postman,git,aws,gcp" /><br>
 	</div>
 </p>
+<hr>
 
 ## ✨ Statistics
-
-
-|Github Stats|Languages|
-|---|---|
 
 <!-- Light Mode -->
 <div align="center"> 
@@ -47,8 +34,24 @@
 </a>
 </div>
 
+<p align="center">
+   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=andrMaulana&theme=radical&hide_border=true">
+	<br>
+</p>
+<hr>
 
-
----
-
-⭐️ From [@andrMaulana](https://github.com/andrMaulana)
+<p>
+	- 📫 Reach out to me via: <br>
+	<div align="center">
+	  <a href="mailto:andryymaulana2000@gmail.com">
+	    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+	  </a>
+	  <a href="https://linkedin.com/in/andrimaullana" target="_blank">
+	    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+	  </a>
+   	<a>
+		<img src="https://dcbadge.vercel.app/api/shield/611172893971447810">
+	</a>
+	</div>
+	
+</p>
