@@ -35,7 +35,7 @@
 </div>
 
 <p align="center">
-   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=andrMaulana&theme=radical&hide_border=true">
+   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fransiscus-Xaverius&theme=radical&hide_border=true">
 	<br>
 </p>
 <hr>
@@ -49,9 +49,6 @@
 	  <a href="https://linkedin.com/in/andrimaullana" target="_blank">
 	    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 	  </a>
-   	<a>
-		<img src="https://dcbadge.vercel.app/api/shield/611172893971447810">
-	</a>
 	</div>
 	
 </p>
