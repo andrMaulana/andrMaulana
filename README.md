@@ -38,7 +38,7 @@
 </div>
 
 <p align="center">
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrMaulana&theme=elegant&hide_border=true)](https://git.io/streak-stats)
+   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=andrMaulana&theme=elegant&hide_border=true">
 	<br>
 </p>
 
