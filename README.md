@@ -5,8 +5,8 @@
 
 <p align="left"> 
 	<div align="center">
-		<img src="https://skillicons.dev/icons?i=go,ts,js,php,java,rust,c,cs,python,html,css" /> <br>
-		<img src="https://skillicons.dev/icons?i=nextjs,laravel,react,bun,nodejs,vite,nestjs,express,tailwind,bootstrap" /><br>
+		<img src="https://skillicons.dev/icons?i=go,rust,ts,js,php,python,html,htmx,css" /> <br>
+		<img src="https://skillicons.dev/icons?i=nextjs,laravel,react,bun,nodejs,vite,express,tailwind,bootstrap" /><br>
       		<img src="https://skillicons.dev/icons?i=redis,postgres,mysql,mongodb,graphql,kafka,docker,postman,git,aws,gcp" /><br>
 	</div>
 </p>
